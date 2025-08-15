@@ -5,3 +5,6 @@ The dataset is synthetic and contains 500 news headlines — 250 labeled as Fake
 
 ngram range (1,2) result
 ![alt text](image.png)
+
+testing model
+![alt text](image-1.png)
